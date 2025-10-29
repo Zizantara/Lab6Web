@@ -1,9 +1,13 @@
 🌐 Praktikum 6: Twitter Bootstrap
 
 Mata Kuliah: Pemrograman Web 1
+
 Nama: Zizantara Arzeva Cakra Kahana
+
 NIM: 312410398
+
 Kelas: TI.24.A.3
+
 Dosen: Agung Nugroho, S.Kom., M.Kom.
 
 🎯 Tujuan Praktikum
